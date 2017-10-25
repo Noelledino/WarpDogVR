@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/VoidVR_scene1.unity
+- path: Assets/WarpDogVR_scene1.unity
   isLoaded: 1
   isActive: 1
